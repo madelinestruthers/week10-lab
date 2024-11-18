@@ -77,10 +77,3 @@ a {
   background-color: #f8f8f8; /* Optional background color for visibility */
   border-bottom: 1px solid #ddd; /* Optional border for separation */
 }
-
-.filters-header{
-  font-weight: bolder;
-  font-size: 30px;
-  text-align: center;
-  
-}

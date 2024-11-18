@@ -66,21 +66,3 @@ a {
   color: blue;
   text-decoration: underline;
 }
-
-.filters-container {
-  display: flex;
-  flex-direction: row;
-  justify-content: center; /* Centers filters horizontally */
-  align-items: center; /* Centers filters vertically if needed */
-  gap: 1rem; /* Adds spacing between filters */
-  padding: 1rem; /* Optional padding for better spacing */
-  background-color: #f8f8f8; /* Optional background color for visibility */
-  border-bottom: 1px solid #ddd; /* Optional border for separation */
-}
-
-.filters-header{
-  font-weight: bolder;
-  font-size: 30px;
-  text-align: center;
-  
-}

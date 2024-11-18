@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #b2b0e2;
+  --foreground: #171717;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+button, select {
+  margin: 5px;
+  padding: 10px 15px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover, select:hover {
+  background-color: #f0f0f0;
+}
+
+a {
+  color: blue;
+  text-decoration: underline;
+}

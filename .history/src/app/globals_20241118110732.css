@@ -73,7 +73,7 @@ a {
   justify-content: center; /* Centers filters horizontally */
   align-items: center; /* Centers filters vertically if needed */
   gap: 1rem; /* Adds spacing between filters */
-  padding: 1rem; /* Optional padding for better spacing */
+  padding: 1.5rem; /* Optional padding for better spacing */
   background-color: #f8f8f8; /* Optional background color for visibility */
   border-bottom: 1px solid #ddd; /* Optional border for separation */
 }
